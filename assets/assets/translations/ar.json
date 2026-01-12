@@ -1,0 +1,139 @@
+{
+  "hello": "اهلا",
+  "Contact us": "تواصل معنا",
+  "start_your_project": " ابدأ مشروعك",
+  "let’s_get_started": "خلينا نبدأ",
+  "About Us": "من نحن",
+  "Services": "خدماتنا",
+  "Latest Work": "أحدث أعمالنا",
+  "Testimonials": "آراء العملاء",
+  
+  "hero_title": "كبّر علامتك التجارية\nمع Wasel Add",
+  "hero_description": "Wasel Add هي وكالة تسويق رقمي إبداعية بتساعد العلامات التجارية\nعلى النمو من خلال استراتيجيات ذكية، محتوى جذاب، وحملات تركّز على النتائج.",
+
+  "Our Partners":"شركاؤنا",
+  "Trusted Companies":"شركات موثوقة",
+  
+  
+  "digital_expertise_title": "خبرتنا في التسويق الرقمي",
+  "digital_expertise_desc": "في Wasel Add، بنقدّم كل الخدمات اللي علامتك التجارية محتاجاها علشان تكبر أونلاين.",
+  
+  "Search Engine Optimization": "تحسين محركات البحث (SEO)",
+  "Search Engine Optimization desc": "بنساعد موقعك يظهر بشكل أفضل في نتائج البحث ويوصل للجمهور المناسب.",
+  "Website design & Development": "تصميم وتطوير المواقع",
+  "Website design & Development desc": "بنصمّم ونطوّر مواقع عصرية وسهلة الاستخدام ومتوافقة مع أهدافك.",
+  "Video editing & Production": "تحرير وإنتاج الفيديو",
+  "Video editing & Production desc": "بنقدّم محتوى فيديو إبداعي يوصل رسالة علامتك التجارية بوضوح.",
+  "Content Writing": "كتابة المحتوى",
+  "Content Writing desc": "بنكتب محتوى بسيط وجذاب يخاطب جمهورك بشكل مباشر.",
+  "Social media Marketing": "التسويق عبر وسائل التواصل الاجتماعي",
+  "Social media Marketing desc": "بندير ونطوّر تواجد علامتك التجارية على منصات التواصل الاجتماعي.",
+  "Paid advertising (PD)": "الإعلانات المدفوعة",
+  "Paid advertising (PD) desc": "بننفّذ حملات إعلانية مدفوعة تستهدف الجمهور الصح وتحقق نتائج حقيقية.",
+
+
+  "why_should_title": "لماذا تختار Wasel Add؟",
+  "why_should_description": "في Wasel Add بنشتغل ببساطة، إبداع، وتركيز دايمًا على النتائج.\n•  استراتيجيات واضحة\n•  تنفيذ إبداعي\n•  تأثير حقيقي على البيزنس",
+
+  "Customers": "عملائنا",
+
+  "Our latest work":"أحدث أعمالنا",
+
+  "videoTitle": "فيديو برودكشن",
+  "videoDescription": "إنتاج فيديو احترافي يعكس هوية العلامة التجارية.",
+
+  "socialTitle": "حملات تواصل اجتماعي",
+  "socialDescription": "حملات سوشيال ميديا لزيادة الوعي والتفاعل.",
+
+  "visualIdentityTitle": "هوية بصرية متكاملة",
+  "visualIdentityDescription": "تصميم هوية بصرية بحضور قوي ومتناسق.",
+
+
+  "reviewsTitle": "آراء العملاء",
+  
+  "review1Name": "سلمى محمود",
+  "review1Role": "مؤسسة @wingardium_co | معلمة علوم",
+  "review1Description": "العمل مع Wasel Add كان تجربة ممتازة. لقد تولوا مسؤولية الـ Reels، التصوير، المونتاج، والميديا باينج باحترافية وإبداع حقيقي.\nما يميزهم حقاً هو دعمهم المستمر؛ تشعر وكأنهم شريك نجاح وليسوا مجرد وكالة.",
+
+  "review2Name": "د. خالد أسعد",
+  "review2Role": "طبيب أسنان",
+  "review2Description": "ساعدوني في تطوير محتواي على السوشيال ميديا، وكانت النتائج ملحوظة. فريق محترف، تواصل واضح وسلس، وفهم ممتاز لأهدافي.",
+
+  "review3Name": "آسر حسين",
+  "review3Role": "صحفي ومحلل رياضي",
+  "review3Description": "فريق عمل محترف، ملتزمون بالمواعيد دائماً، ومبدعون للغاية.",
+  
+
+
+  "contact_title": "تواصل معنا",
+  "contact_description": "خلّينا نتكلم عن إزاي Wasel Add تقدر تساعد مشروعك يكبر.",
+
+
+
+  "contact_us_title": "تواصل معنا",
+  "contact_us_description": "يسعدنا معرفة تفاصيل مشروعك.\nاملأ النموذج أو تواصل معنا مباشرة.",
+
+  "contact_form_name": "الاسم",
+  "contact_form_email": "البريد الإلكتروني",
+  "contact_form_phone": "رقم الهاتف",
+  "contact_form_message": "الرسالة",
+  "contact_form_send": "إرسال الرسالة",
+  "contact_info_email": "البريد الإلكتروني",
+  "contact_info_phone": "الهاتف",
+  "contact_info_address": "العنوان",
+
+  "address":"10 شارع أحمد خشبة،\nميدان الحجاز، مصر الجديدة",
+
+  "Follow Us":"تابعنا",
+
+    "footer_copyright": "© All Rights Reserved By WaselAdd",
+
+
+
+
+  
+  "contact_info": "بيانات التواصل",
+  "first_name": "الاسم الأول *",
+  "last_name": "الاسم الأخير *",
+  "email_address": "البريد الإلكتروني *",
+  "phone_number": "رقم الهاتف *",
+  "service_inquiry": "استفسار عن الخدمة",
+  "which_service_interested": "ما هي الخدمة التي تهتم بها؟",
+  "choose_service": "اختر خدمة",
+  "media_buying": "شراء مساحات إعلانية (Media Buying)",
+  "marketing_strategy": "استراتيجية التسويق",
+  "media_production": "الإنتاج الإعلامي",
+  "social_media_marketing": "التسويق عبر وسائل التواصل",
+  "web_solutions": "حلول الويب والبرمجة",
+  "business_info": "بيانات العمل",
+  "business_activity": "نشاط العمل / الصناعة",
+  "project_goal": "هدف المشروع",
+  "main_goal": "ما هو هدفك الرئيسي؟",
+  "goals": {
+    "brand_awareness": "الوعي بالعلامة التجارية",
+    "leads": "جلب عملاء محتملين (Leads)",
+    "sales": "زيادة المبيعات",
+    "social_media_growth": "نمو حسابات التواصل الاجتماعي",
+    "website_traffic": "زيارات الموقع الإلكتروني",
+    "consultation_only": "استشارة فقط"
+  },
+  "budget_range": "ميزانية المشروع",
+  "expected_budget": "ما هو نطاق ميزانيتك المتوقع؟",
+  "select_budget": "اختر نطاق الميزانية",
+  "less_than_20k": "أقل من 20 ألف",
+  "20k_50k": "20 ألف – 50 ألف",
+  "50k_100k": "50 ألف – 100 ألف",
+  "100k_150k": "100 ألف – 150 ألف",
+  "not_sure": "غير متأكد",
+  "timeline": "الجدول الزمني",
+  "expected_timeline": "ما هو الجدول الزمني المتوقع؟",
+  "select_timeline": "اختر المدة الزمنية",
+  "asap": "في أقرب وقت ممكن",
+  "1_2_weeks": "1–2 أسبوع",
+  "1_month": "شهر واحد",
+  "3_months": "3 شهور",
+  "additional_notes": "ملاحظات إضافية",
+  "additional_details": "هل لديك أي تفاصيل أو ملاحظات إضافية؟",
+  "submit_request": "إرسال الطلب"
+
+}

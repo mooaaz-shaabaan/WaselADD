@@ -1,0 +1,138 @@
+{
+  "hello": "Hello",
+  "Contact us": "Contact Us",
+  "start_your_project": "Start Your Project",
+  "let’s_get_started": "Let’s Get Started",
+  "About Us": "About Us",
+  "Services": "Services",
+  "Latest Work": "Latest Work",
+  "Testimonials": "Testimonials",
+
+  "hero_title": "OUR DIGITAL\nMARKETING EXPERTISE",
+  "hero_description": "At Wasel Add, we offer everything your brand needs to grow online.",
+
+  "Our Partners":"Our Partners",
+  "Trusted Companies":"Trusted Companies",
+
+
+  "digital_expertise_title": "OUR DIGITAL MARKETING EXPERTISE",
+  "digital_expertise_desc": "At Wasel Add, we offer everything your brand needs to grow online.",
+
+  "Search Engine Optimization": "Search Engine Optimization (SEO)",
+  "Search Engine Optimization desc": "We help your website rank better on search engines and attract the right audience.",
+  "Website design & Development": "Website Design & Development",
+  "Website design & Development desc": "We design and build modern websites that are easy to use and aligned with your goals.",
+  "Video editing & Production": "Video Editing & Production",
+  "Video editing & Production desc": "We create engaging video content that clearly delivers your brand message.",
+  "Content Writing": "Content Writing",
+  "Content Writing desc": "We write clear and creative content that speaks to your audience.",
+  "Social media Marketing": "Social media Marketing",
+  "Social media Marketing desc": "We manage and grow your brand presence across social media platforms.",
+  "Paid advertising (PD)": "Paid advertising",
+  "Paid advertising (PD) desc": "We run targeted ad campaigns focused on reaching the right people and achieving results.",
+
+
+  "why_should_title": "WHY CHOOSE WASEL Add",
+  "why_should_description": "At Wasel Add, we keep things simple, creative, and focused on results.\n•  Clear strategies\n•  Creative execution\n•  Real business impact",
+
+  "Customers": "Customers",
+
+  "Our latest work": "OUR LATEST WORK",
+
+  "videoTitle": "Video Production",
+  "videoDescription": "Professional video production that reflects the brand identity.",
+
+  "socialTitle": "Social Media Campaigns",
+  "socialDescription": "Social media campaigns to boost awareness and engagement.",
+
+  "visualIdentityTitle": "Complete Visual Identity",
+  "visualIdentityDescription": "A strong and consistent visual brand identity.",
+
+
+  "reviewsTitle": "REVIEWS",
+
+  "review1Name": "Salma Mahmoud",
+  "review1Role": "Founder @wingardium_co | Science Educator",
+  "review1Description": "Working with Wasel Add has been a great experience. They handled our reels, shooting, editing, and media buying with real professionalism and creativity.\nWhat truly sets them apart is their support — it feels like having a partner, not just an agency.",
+
+  "review2Name": "DR.Khaled Asaad",
+  "review2Role": "Dentist",
+  "review2Description": "They helped me improve my social media content, and the results were noticeable.Professional team, clear communication, and a great understanding of my goals.",
+
+  "review3Name": "Asser Hessein",
+  "review3Role": "Journalist & Sports Analyst",
+  "review3Description": "Professional staff, always on time, and very creative.",
+
+
+
+  "contact_title": "GET IN TOUCH",
+  "contact_description": "Let’s talk about how Wasel Add can help your business grow.",
+
+
+
+  "footer_copyright": "© All Rights Reserved By WaselAdd",
+
+
+
+  "contact_us_title": "Get in Touch",
+
+  "contact_us_description": "We'd love to hear about your project.\nFill out the form or reach us directly.",
+
+  "contact_form_name": "Your Name",
+  "contact_form_email": "Email Address",
+  "contact_form_phone": "Phone Number",
+  "contact_form_message": "Message",
+  "contact_form_send": "Send Message",
+  "contact_info_email": "Email",
+  "contact_info_phone": "Phone",
+  "contact_info_address": "Address",
+
+  "address":"10 Ahmed Khashaba Street,\nHeliopolis (Midan El Hegaz)",
+
+  "Follow Us":"Follow Us",
+
+
+ "contact_info": "Contact Information",
+  "first_name": "First name *",
+  "last_name": "Last name *",
+  "email_address": "Email Address *",
+  "phone_number": "Phone Number *",
+  "service_inquiry": "Service Inquiry",
+  "which_service_interested": "Which service are you interested in?",
+  "choose_service": "Choose a service",
+  "media_buying": "Media Buying",
+  "marketing_strategy": "Marketing Strategy",
+  "media_production": "Media Production",
+  "social_media_marketing": "Social Media Marketing",
+  "web_solutions": "Web Solutions",
+  "business_info": "Business Information",
+  "business_activity": "Business Activity / Industry",
+  "project_goal": "Project Goal",
+  "main_goal": "What is your main goal?",
+  "goals": {
+    "brand_awareness": "Brand Awareness",
+    "leads": "Leads",
+    "sales": "Sales",
+    "social_media_growth": "Social Media Growth",
+    "website_traffic": "Website Traffic",
+    "consultation_only": "Consultation Only"
+  },
+  "budget_range": "Budget Range",
+  "expected_budget": "What is your expected budget range?",
+  "select_budget": "Select your budget range",
+  "less_than_20k": "Less than 20K",
+  "20k_50k": "20K – 50K",
+  "50k_100k": "50K – 100K",
+  "100k_150k": "100K – 150K",
+  "not_sure": "Not Sure",
+  "timeline": "Timeline",
+  "expected_timeline": "What is your expected timeline?",
+  "select_timeline": "Select Timeline",
+  "asap": "ASAP",
+  "1_2_weeks": "1–2 Weeks",
+  "1_month": "1 Month",
+  "3_months": "3 Months",
+  "additional_notes": "Additional Notes",
+  "additional_details": "Do you have any additional details or notes?",
+  "submit_request": "Submit Request"
+}
